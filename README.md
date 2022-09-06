@@ -1,3 +1,3 @@
 ### graduate-backend_kbannie-study--
 ---
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+##### WISCOM 졸업준비 위원회 백엔드 Node.js 스터디
