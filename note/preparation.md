@@ -95,5 +95,15 @@
         - "success":true 뜨면 성공!!
         - mongodb collection을 확인하면 해당 데이터가 저장되어 있음
 
+### (4) Nodemon 설치
+: 소스 수정 시 자동으로 서버를 재시작하여 서버에 반영하는 도구
+- 설치
+
+        npm install nodemon
+
+- 실행
+
+        nodemon start
+
 
 
