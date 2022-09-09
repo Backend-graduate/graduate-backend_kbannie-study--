@@ -1,6 +1,19 @@
 # Backend study for WISCOM 
 
+## 0. Concept
 
++ request : 클라이언트는 서버에 필요한 정보를 요청
+
++ response : 서버는 요청을 해석하여 필요한 정보로 응답
++  웹서비스 : WWW (World Wide Web)
++ 웹서비스 개발 : Front-End, Back-End, Full stack
+
+    사용자가 서버에 웹 서비스를 요청 -> 서버는 해당 웹 페이지 또는 index.html을 전달 -> 사용자는 웹 페이지를 읽어서 웹 브라우저에 보여줌(렌더링)
+    + *Back-End* 
+        + 웹 서버 : 클라이언트와 서버의 통신을 위해서 프로토콜이 필요 -> HTTP 사용
+        + 애플리케이션 서버 : 클라이언트가 읽을 수 있는 내용을 웹 서버에 전달 
+        + 웹 서버 프레임워크 : 생성, 조회, 수정, 삭제 => CRUD
+---
 
 ## 1. Preparation
 ### (1) Node.js 초기 세팅
